@@ -1,5 +1,8 @@
 package edu.escuelaing.arep.model;
 
+/**
+ * Clase que permite modelar los grados farenheit (input) y celsius (output)
+ */
 public class Temperatura {
     private double farenheit;
     private double celcius;
